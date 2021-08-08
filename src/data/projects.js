@@ -1,49 +1,45 @@
 /* eslint linebreak-style: ["error", "windows"] */
 
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Image Augmentations Comparisons for Deep Learning Performance - ECE 4580',
+    subtitle: 'ECE 4580 Class Project',
+    link: 'https://github.com/mnguyen0226/image-augmentation-dnn-performance',
+    image: 'images/projects/image_augmentation_project.jpg',
+    date: 'April 2021',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Surveyed performances of several digital image preprocessing techniques for deep learning. '
+      + 'Tools: Pytorch, Python, Numpy.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Neural Networks from Scratch - ECE 4424',
+    subtitle: 'ECE 4424 Class Project',
+    link: 'https://github.com/mnguyen0226/Neural-Network-from-Scratch-MNIST-Classification',
+    image: '/images/projects/mnist.jpg',
+    date: 'November 2020',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built a 3-layer neural network for the image classification task. '
+      + 'Tools: Python, Numpy.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'GIS Virginia Database Parser - CS 3114 ',
+    subtitle: 'CS 3114 Class Project',
+    link: 'https://github.com/mnguyen0226/gis-virginia-parser',
+    image: '/images/projects/gis_project.jpg',
+    date: 'October 2020',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Built database processing system that indexes and provides search features for a file of GIS records. '
+      + 'Tools: Java, Hashtable, PR Quadtree, Bufferpool. Note: this project is locked due to Honor Code, please contact me if you want a copy.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Smart Home Project - ECE 2804 ',
+    subtitle: 'ECE 2804 Class Project',
+    link: 'https://github.com/mnguyen0226/smart-home-project-ECE-2804',
+    image: '/images/projects/smart_home_project.jpg',
+    date: 'April 2020',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Developed an Android App for data transfer via Bluetooth. Orchestrated a home demo with eight household systems using C++. '
+      + 'Tools: C++, Arduino Uno + Mega, Arduino Sensors. Note: this project is locked due to Honor Code, please contact me if you want a copy.',
   },
 ];
 

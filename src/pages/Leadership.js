@@ -8,25 +8,20 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/about.md');
-
-const count = markdown.split(/\s+/)
-  .map((s) => s.replace(/\W/g, ''))
-  .filter((s) => s.length).length;
+const markdown = raw('../data/leadership.md');
 
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const About = () => (
+const Leadership = () => (
   <Main
-    title="About"
+    title="Leadership"
     description="Learn about Minh T. Nguyen"
   >
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">About Me</Link></h2>
-          <p>(in about {count} words)</p>
+          <h2 data-testid="heading"><Link to="/leadership">Leadership</Link></h2>
         </div>
       </header>
       <ReactMarkdown
@@ -40,4 +35,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default Leadership;

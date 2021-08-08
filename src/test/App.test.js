@@ -16,6 +16,7 @@ import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
 import Resume from '../pages/Resume';
 import Stats from '../pages/Stats';
+import Leadership from '../pages/Leadership';
 
 const pages = [
   {
@@ -37,6 +38,11 @@ const pages = [
     route: '/stats',
     heading: 'Stats',
     component: Stats,
+  },
+  {
+    route: '/leadershi[',
+    heading: 'Leadership',
+    component: Leadership,
   },
   {
     route: '/contact',

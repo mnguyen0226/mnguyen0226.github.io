@@ -3,7 +3,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Minh T. Nguyen',
     path: '/',
   },
   {
@@ -11,16 +11,20 @@ const routes = [
     path: '/about',
   },
   {
-    label: 'Resume',
+    label: 'Resumé',
     path: '/resume',
+  },
+  {
+    label: 'Research & Experience',
+    path: '/stats',
+  },
+  {
+    label: 'Leadership',
+    path: '/leadership',
   },
   {
     label: 'Projects',
     path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
   },
   {
     label: 'Contact',
