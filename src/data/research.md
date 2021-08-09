@@ -22,7 +22,7 @@ In Summer 2021, I am currently a Machine Learning Intern at Heron Systems R&D, w
 
 - [**Positional Subteam Member**](https://www.linkedin.com/in/minh-t-nguyen-1a7690178/detail/treasury/position:1623863930/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACoaYg8Bb6mssH5o5yBCXllyAiS1OhrwUCU%2C1597625551374)&section=position%3A1623863930&treasuryCount=1) - [Antenna Range Project at Wireless@VT](https://www.google.com/search?q=Wireless%40VT&rlz=1C1CHBF_enUS948US948&oq=wirel&aqs=chrome.0.69i59j69i57j0i67j69i61j69i60j69i65j69i61j69i60.1039j0j7&sourceid=chrome&ie=UTF-8) - *Summer 2020*.
     - Applied my knowledge in Python, Arduino, and GRBL library to control the two stepper motors for signal receiving task or signal sweeping application.
-    - User will be able to control the Antenna's movements through their preferred angles by entering the angles in Python script.<br><br>
+    - User will be able to control the Antenna's movements through their preferred angles by entering the angles in Python script.
 
 # Internship
 - **Machine Learning Intern** - [Heron Systems R&D](https://heronsystems.com/work/gamebreaker/) - *Winter 2020 to Present*.
