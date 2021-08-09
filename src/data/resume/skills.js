@@ -10,7 +10,7 @@ const skills = [
   },
   {
     title: 'Github',
-    competency: 3.5,
+    competency: 3,
     category: ['Version Control'],
   },
   {
@@ -30,7 +30,7 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 2.5,
     category: ['Machine Learning & Data Science'],
   },
   {
