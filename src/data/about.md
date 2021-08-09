@@ -7,7 +7,7 @@ I am a Senior at Virginia Tech majoring in Computer Engineer with a focus in Mac
 I was born in the beautiful [Ho Chi Minh City](https://www.youtube.com/watch?v=Ilui-mb3sT0&ab_channel=BeautifulDestinations), Viet Nam. I moved to the United State when I was 18 years old and have been living in the State ever since.
 
 # Research Interests
-Can be found in [here](https://mnguyen0226.github.io/personal-site/stats).
+Can be found in [here](https://mnguyen0226.github.io/personal-site/research).
 
 # Current Work
 

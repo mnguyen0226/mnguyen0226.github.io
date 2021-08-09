@@ -8,32 +8,32 @@ In Summer 2021, I am currently a Machine Learning Intern at Heron Systems R&D, w
 
 # Undergraduate Research
 - **Member** - [TREC Lab@VT](https://www.trecvt.org/) - *August 2021 - Present*.
-    - Robotics Arm + Virtual Realistic 
+    - Robotics Arm + Virtual Realistic<br><br>
 
 - **Member** - [A3 Lab@VT](https://ai.ece.vt.edu/) - *January 2021 to Present*.
     - Researched AI Explainability and Security methods to build a pipeline for image recognition tasks used for the farm-policy-recommendation system.
-    - Applied correlation metrics to finalize features and labels in the US internet policy dataset used for training in the public-policy-recommendation framework.
+    - Applied correlation metrics to finalize features and labels in the US internet policy dataset used for training in the public-policy-recommendation framework.<br><br>
 
 
 - **VT Team Member** - [Geo Fellowship at William & Mary College](https://www.wm.edu/as/data-science/researchlabs/geolab/cci/index.php) - *May 2020 to May 2021*.
     - Evaluated driving data via Android app and satellite images to classify road roughness.
     - Constructed convolution neural network models using Keras by stacking VGG16, InceptionV3, ResNet50.
-    - Evaluated adversarial attacks with Alibi Detection.
+    - Evaluated adversarial attacks with Alibi Detection.<br><br>
 
 - [**Positional Subteam Member**](https://www.linkedin.com/in/minh-t-nguyen-1a7690178/detail/treasury/position:1623863930/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACoaYg8Bb6mssH5o5yBCXllyAiS1OhrwUCU%2C1597625551374)&section=position%3A1623863930&treasuryCount=1) - [Antenna Range Project at Wireless@VT](https://www.google.com/search?q=Wireless%40VT&rlz=1C1CHBF_enUS948US948&oq=wirel&aqs=chrome.0.69i59j69i57j0i67j69i61j69i60j69i65j69i61j69i60.1039j0j7&sourceid=chrome&ie=UTF-8) - *Summer 2020*.
     - Applied my knowledge in Python, Arduino, and GRBL library to control the two stepper motors for signal receiving task or signal sweeping application.
-    - User will be able to control the Antenna's movements through their preferred angles by entering the angles in Python script.
+    - User will be able to control the Antenna's movements through their preferred angles by entering the angles in Python script.<br><br>
 
 # Internship
 - **Machine Learning Intern** - [Heron Systems R&D](https://heronsystems.com/work/gamebreaker/) - *Winter 2020 to Present*.
     - Stabilized Transformers architecture and generated testbed for reinforcement learning agent in StarCraft2 (PySC2).
     - Built ResNet and Reinforcement Learning agents with Pytorch in PySC2 for game-winning classification application.
-    - Generated and trained Multi-Agent Reinforcement Learning agent to generate more training datasets.
+    - Generated and trained Multi-Agent Reinforcement Learning agent to generate more training datasets.<br><br>
 
 # Software Development Experience
 - **Connected and Automated Vehical Systems Subteam Member** - [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html) - *August 2020 to May 2021*.
-    - Designed test code for sensor fusion infrastructure and adaptive cruise control FSM with MatLab and C++.
+    - Designed test code for sensor fusion infrastructure and adaptive cruise control FSM with MatLab and C++.<br><br>
 
 - **Undergraduate Learning Assistant / TA** - ECE 2804 @VT - *May 2020 to May 2021*.
     - Advised students by holding office hours to assist them with projects and lab assignments.
-    - Created supplemental lesson plans for students struggling with programming and circuit concepts.
+    - Created supplemental lesson plans for students struggling with programming and circuit concepts.<br><br>

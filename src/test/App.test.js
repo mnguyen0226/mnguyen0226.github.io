@@ -15,7 +15,7 @@ import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
 import Resume from '../pages/Resume';
-import Stats from '../pages/Stats';
+import Research from '../pages/Research';
 import Leadership from '../pages/Leadership';
 
 const pages = [
@@ -35,12 +35,12 @@ const pages = [
     component: Projects,
   },
   {
-    route: '/stats',
-    heading: 'Stats',
-    component: Stats,
+    route: '/research',
+    heading: 'Research',
+    component: Research,
   },
   {
-    route: '/leadershi[',
+    route: '/leadership',
     heading: 'Leadership',
     component: Leadership,
   },

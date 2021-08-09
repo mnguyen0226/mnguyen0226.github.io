@@ -23,7 +23,7 @@ const Index = () => (
       <p> Greeting! Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resumé</Link>, {' '}
-        <Link to="/stats">research/experience</Link>, {' '}
+        <Link to="/research">research/experience</Link>, {' '}
         <Link to="/leadership">leadership</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.

@@ -19,8 +19,17 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to get in touch. You can email me at: </p>
+        <p>Feel free to get in touch! You can email me at:
+        </p>
         <EmailLink />
+        <br />
+        <p>
+          <i>
+            For University Recruiter(s),
+            if you are interested in hosting info sessions or events with IEEE@VT,
+            please dont hesitate to message me via Linked In or Email :)
+          </i>
+        </p>
       </div>
       <ContactIcons />
     </article>

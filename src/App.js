@@ -15,7 +15,7 @@ const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
-const Stats = lazy(() => import('./pages/Stats'));
+const Research = lazy(() => import('./pages/Research'));
 const Leadership = lazy(() => import('./pages/Leadership'));
 
 const App = () => (
@@ -25,7 +25,7 @@ const App = () => (
         <Route exact path="/" component={Index} />
         <Route path="/about" component={About} />
         <Route path="/projects" component={Projects} />
-        <Route path="/stats" component={Stats} />
+        <Route path="/research" component={Research} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/leadership" component={Leadership} />

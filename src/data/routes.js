@@ -16,7 +16,7 @@ const routes = [
   },
   {
     label: 'Research & Experience',
-    path: '/stats',
+    path: '/research',
   },
   {
     label: 'Leadership',
