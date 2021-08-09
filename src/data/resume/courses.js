@@ -70,7 +70,7 @@ const courses = [
   },
   {
     title: 'Embedded Systems',
-    number: 'ECce 2564',
+    number: 'ECE 2564',
     link:
       'https://ece.vt.edu/undergrad/courses/2564',
     university: 'Virginia Tech',
