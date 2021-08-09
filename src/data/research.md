@@ -8,7 +8,7 @@ In Summer 2021, I am currently a Machine Learning Intern at Heron Systems R&D, w
 
 # Undergraduate Research
 - **Member** - [TREC Lab@VT](https://www.trecvt.org/) - *August 2021 - Present*.
-    - Robotics Arm + Virtual Realistic<br><br>
+    - Robotics Arm + Virtual Reality<br><br>
 
 - **Member** - [A3 Lab@VT](https://ai.ece.vt.edu/) - *January 2021 to Present*.
     - Researched AI Explainability and Security methods to build a pipeline for image recognition tasks used for the farm-policy-recommendation system.
