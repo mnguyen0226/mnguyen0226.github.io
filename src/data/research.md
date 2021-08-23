@@ -26,9 +26,13 @@ In Summer 2021, I am currently a Machine Learning Intern at Heron Systems R&D, w
 
 # Internship
 - **Machine Learning Intern** - [Heron Systems R&D](https://heronsystems.com/work/gamebreaker/) - *Winter 2020 to Present*.
-    - Stabilized Transformers architecture and generated testbed for reinforcement learning agent in StarCraft2 (PySC2).
     - Built ResNet and Reinforcement Learning agents with Pytorch in PySC2 for game-winning classification application.
-    - Generated and trained Multi-Agent Reinforcement Learning agent to generate more training datasets.
+    - Create NLP performance test bench for any Transformers/RNN/GRU architectures (including the Gated Transformers for RL application stabilization) allowing ML engineers to validate their Transformers/RNN/GRU performance. (!)
+    - Implemented and tested random search, greedy search, and random-greedy hybrid search to optimize army searching time. (!)
+    - Assisted in pitching new ideas and the team's currentaccomplishment in the GameBreaker Final Presentation.
+    - Reproduced “StarCraftII Multi-Agent Challenge” withMAVA frameworks with different Multi-Agent RL algorithms with the purpose to gain more funds for Game Breaker 2.0. (!)
+    - Assisted in building Heron Systems' Hackathon by writing documentation, tutorials, and providing benchmark RL and scripted agents for competitions. (!)
+
 
 # Software Development Experience
 - **Connected and Automated Vehical Systems Subteam Member** - [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html) - *August 2020 to May 2021*.
