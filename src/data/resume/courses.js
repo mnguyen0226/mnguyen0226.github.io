@@ -117,6 +117,36 @@ const courses = [
     link: 'https://ece.vt.edu/undergrad/courses/2024',
     university: 'Virginia Tech',
   },
+  {
+    title: 'Bayesian Statistics',
+    number: 'STAT 5444',
+    link: 'https://www.apps.stat.vt.edu/leman/VTCourses/5444ClassStructure.html',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Continuous & Discrete System Theory',
+    number: 'ECE 3704',
+    link: 'https://ece.vt.edu/undergrad/courses/3704',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Linux Kernal Programming',
+    number: 'ECE 4414',
+    link: 'https://ece.vt.edu/undergrad/courses/4414',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Computer Vision',
+    number: 'ECE 5554',
+    link: 'https://ece.vt.edu/grad/courses/5554',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Special Study: Mathematical Foundation of Reinforcement Learning Algorithms',
+    number: 'ECE 5984',
+    link: 'https://sites.google.com/site/thinhdoan210/',
+    university: 'Virginia Tech',
+  },
 ];
 
 export default courses;
