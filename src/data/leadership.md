@@ -5,8 +5,8 @@ My life is more than just school and work, leadership and people-skill are also 
 
 # Leadership Experience 
 - **Industry Relations Chair** - IEEE@VT - *May 2020 to Present*.
-    - Organized peer networking events to connect students to faculty-sponsored and company-sponsored opportunities in the ECE department.
-    - Collaborated with IEEE President for IEEE Summit, an annual, day-long VT student leadership conference.<br><br>
+    - Hosted peer networking events and info sessions to connect students to faculty-sponsored and company-sponsored opportunities in the ECE department.
+    - Collaborated with company representatives in IEEE@VT Summit, resume review sessions, and tech talks.<br><br>
 
 - **Club President** - Teaching Robotics & Engineering (TRE) @VT - *September 2018 to December 2020*.
     - Teach Arduino coding foundations and robotics projects for 15-25 club members.
@@ -23,7 +23,7 @@ My life is more than just school and work, leadership and people-skill are also 
 
 - **Student Manager** - Deet's Place Coffee @VT - *September 2018 to September 2019*.
     - Supervised and ensured a smooth functioning workplace environment.
-    - Delegated tasks, corrected and informed company standards for up to 9 employees.
+    - Delegated tasks, corrected and informed company standards for 9 employees.
     - Assisted with inquiries and questions from customers and employees.<br><br>
 
 - **Math Team Captain** - St.Paul Preparatory School - *Senior Year Highschool*.
