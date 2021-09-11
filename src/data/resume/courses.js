@@ -118,12 +118,6 @@ const courses = [
     university: 'Virginia Tech',
   },
   {
-    title: 'Bayesian Statistics',
-    number: 'STAT 5444',
-    link: 'https://www.apps.stat.vt.edu/leman/VTCourses/5444ClassStructure.html',
-    university: 'Virginia Tech',
-  },
-  {
     title: 'Continuous & Discrete System Theory',
     number: 'ECE 3704',
     link: 'https://ece.vt.edu/undergrad/courses/3704',
@@ -142,7 +136,7 @@ const courses = [
     university: 'Virginia Tech',
   },
   {
-    title: 'Special Study: Mathematical Foundation of Reinforcement Learning Algorithms',
+    title: 'Reinforcement Learning Algorithms',
     number: 'ECE 5984',
     link: 'https://sites.google.com/site/thinhdoan210/',
     university: 'Virginia Tech',
