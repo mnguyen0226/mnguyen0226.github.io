@@ -5,7 +5,7 @@ const Presume = () => (
   <div className="references">
     <div className="link-to" id="references" />
     <div className="title">
-      <a href="https://github.com/mnguyen0226/mnguyen0226.github.io/blob/main/docs/resume/latest_resume_minh_nguyen.pdf"><h3>My Latests Resumé</h3></a>
+      <a href="https://github.com/mnguyen0226/mnguyen0226.github.io/blob/main/docs/resume/latest_resume_minh_nguyen.pdf"><h3>My Latest Resumé</h3></a>
     </div>
   </div>
 );
