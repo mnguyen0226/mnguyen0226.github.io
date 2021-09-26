@@ -12,6 +12,16 @@ const data = [
       + 'Tools: C, Linux API.',
   },
   {
+    title: 'Mini Project: Gated Transformers Implementation - Learning Transformers',
+    subtitle: 'Personal Project',
+    link: 'https://github.com/mnguyen0226/gated_transformers_nlp',
+    image: 'images/projects/gated_transformers.jpg',
+    date: 'June 2021',
+    desc:
+      'Implementation of "Stabilizing Transformers for Reinforcement Learning" paper'
+      + 'Tools: Python, NLP torchtext dataset.',
+  },
+  {
     title: 'Image Augmentations Comparisons for Deep Learning Performance - ECE 4580',
     subtitle: 'ECE 4580 Class Project',
     link: 'https://github.com/mnguyen0226/image-augmentation-dnn-performance',
