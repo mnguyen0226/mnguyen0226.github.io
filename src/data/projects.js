@@ -2,6 +2,16 @@
 
 const data = [
   {
+    title: 'Mini Project: Essential Data Structures in Linux Kernel Programming - ECE 4414',
+    subtitle: 'Personal Project',
+    link: 'https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel',
+    image: 'images/projects/LKP.jpg',
+    date: 'September 2021',
+    desc:
+      'Implementation of Linked List, Hash Table, Red-Black Tree, Radix Tree, and XArray in C and Linux 5.13 API. '
+      + 'Tools: C, Linux API.',
+  },
+  {
     title: 'Image Augmentations Comparisons for Deep Learning Performance - ECE 4580',
     subtitle: 'ECE 4580 Class Project',
     link: 'https://github.com/mnguyen0226/image-augmentation-dnn-performance',
