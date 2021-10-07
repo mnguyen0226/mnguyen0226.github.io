@@ -15,8 +15,8 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome to my personal site!</Link></h2>
           <p>
-            One-page resumé, Linked In, and Github are not enough for me to express myself
-            fully, so I put my experience and journey in here :)
+            I am looking for Software Engineering / Machine Learning Internship
+            or Coop in Winter 2021, Spring 2022, Summer 2022:)
           </p>
         </div>
       </header>

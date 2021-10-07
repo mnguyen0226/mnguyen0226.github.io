@@ -3,8 +3,12 @@
 
 In Summer 2021, I joined as a Machine Learning Intern at Heron Systems R&D, working on applying Deep Learning and Reinforcement Learning in [Game Breaker](https://heronsystems.com/work/gamebreaker/) project. I am also working on Model Specific Assurance project using Deep Learning Explainability and Defense methods at [A3 Lab](https://ai.ece.vt.edu/). My broader research interests include Deep Learning (spefically Adversarial Attacks-Defenses, Optimizations, Explainability, and Trustworthy) and Reinforcement Learning (specifically Multi-Agent Reinforcement Learning). I am currently developing my Reinforcement Learning skills and self-teaching Controls Theory, thus I plan to do research combining both RL and control theory domains. In Fall 2021, I will continue my work in AI Assurance in [A3 Lab](https://ai.ece.vt.edu/contact.html) and start my Senior Design Project in [TREC@VT Lab](https://www.trecvt.org/) in the ForceBot project.
 
-# Paper
-- Acknowledged in Publication: **"Predicting road quality using high-resolution satellite imagery: A transfer learning approach" - Ethan Brewer, Jason Lin, Peter Kemper, John Hennin, Dan Runfola** - [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253370)
+# Publication
+- Poster: **"Technology Policy Recommendations Using Artificial Intelligence" - Anuga, A., Nguyen, M., Perini, D., Svetovidov, A., Tolman, A., Wani. Q., and Batarseh, F.** - [FLAIRS](https://journals.flvc.org/FLAIRS/article/view/128499)<br><br>
+
+- Book Chapter [in progress]: **"Bringing Dark Data to Light with AI for Evidence-Based Policymaking" - Dominick J. Perini, Feras A. Batarseh, Amanda Tolman, Ashita Anuga, Minh Nguyen**<br><br>
+
+- Paper: Acknowledged in **"Predicting road quality using high-resolution satellite imagery: A transfer learning approach" - Ethan Brewer, Jason Lin, Peter Kemper, John Hennin, Dan Runfola** - [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253370)
 
 # Undergraduate Research
 - **Member** - [TREC Lab@VT](https://www.trecvt.org/projects-v1/forcebot-haptic-force-and-position-feedback-in-virtual-reality) - *August 2021 to Present*.

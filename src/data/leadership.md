@@ -4,9 +4,14 @@
 My life is more than just school and work, leadership and people-skill are also essential. I have been practicing leadership skills and mentoring skills in any related opportunities that I can.
 
 # Leadership Experience 
-- **Industry Relations Chair** - IEEE@VT - *May 2020 to Present*.
-    - Hosted peer networking events and info sessions to connect students to faculty-sponsored and company-sponsored opportunities in the ECE department.
-    - Collaborated with company representatives in IEEE@VT Summit, resume review sessions, and tech talks.<br><br>
+- **Industry Relations Chair** - [IEEE@VT](https://www.ieee.vt.edu/) - *May 2020 to Present*.
+    - Host peer networking events and info sessions to connect students to faculty-sponsored and company-sponsored opportunities in the ECE department.
+    - Lead and mentor a group of 10 IEEE@VT General Officers with hosting both in-person/online events and volunteers opportunities.
+    - Collaborate with company representatives in IEEE@VT Summit, resume review sessions, and tech talks.
+    - Events Categories:
+        - Company Info Sessions, Tech Talks, Resume Review Sessions, Networking Sessions, Recruitment Sessions.
+        - IEEE@VT Experience Students Tech Talks (IEEExp).
+        - IEEE@VT Online Resume Review Sessions.<br><br> 
 
 - **Club President** - Teaching Robotics & Engineering (TRE) @VT - *September 2018 to December 2020*.
     - Teach Arduino coding foundations and robotics projects for 15-25 club members.
