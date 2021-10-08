@@ -18,7 +18,9 @@ In Summer 2021, I joined as a Machine Learning Intern at Heron Systems R&D, work
 
 - **Member** - [A3 Lab@VT](https://ai.ece.vt.edu/) - *May 2021 to Present*.
     - Researched AI Explainability and Security methods to build a pipeline for image recognition tasks used for the farm-policy-recommendation system.
-    - Applied correlation metrics to finalize features and labels in the US internet policy dataset used for training in the public-policy-recommendation framework.<br><br>
+    - Applied correlation metrics to finalize features and labels in the US internet policy dataset used for training in the public-policy-recommendation framework.
+    - Research adversarial attacks detection with Graph Neural Networks in water distribution systems.
+    - To be updated...<br><br>
 
 
 - **VT Team Member** - [Geo Fellowship at William & Mary College](https://www.wm.edu/as/data-science/researchlabs/geolab/cci/index.php) - *May 2020 to May 2021*.
