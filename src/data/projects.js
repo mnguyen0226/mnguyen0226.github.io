@@ -2,14 +2,14 @@
 
 const data = [
   {
-    title: 'Mini Project: Essential Data Structures in Linux Kernel Programming - ECE 4414',
+    title: 'Project (On-going): AI Flappy Hokie',
     subtitle: 'Personal Project',
-    link: 'https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel',
-    image: 'images/projects/LKP.jpg',
-    date: 'August 2021',
+    link: 'https://github.com/mnguyen0226/ai_flappy_bird',
+    image: 'images/projects/ai_hokie.jpg',
+    date: 'September 2021',
     desc:
-      'Implementation of Linked List, Hash Table, Red-Black Tree, Radix Tree, and XArray in C and Linux 5.13 API. '
-      + 'Tools: C, Linux API.',
+      'Build Flappy Bird Environment and implement NEAT/RL algorithms. '
+      + 'Tools: PyGame, Django, Python.',
   },
   {
     title: 'Mini Project: Essential Data Structures in Linux Kernel Programming - ECE 4414',
