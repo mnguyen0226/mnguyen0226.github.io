@@ -6,7 +6,17 @@ const data = [
     subtitle: 'Personal Project',
     link: 'https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel',
     image: 'images/projects/LKP.jpg',
-    date: 'September 2021',
+    date: 'August 2021',
+    desc:
+      'Implementation of Linked List, Hash Table, Red-Black Tree, Radix Tree, and XArray in C and Linux 5.13 API. '
+      + 'Tools: C, Linux API.',
+  },
+  {
+    title: 'Mini Project: Essential Data Structures in Linux Kernel Programming - ECE 4414',
+    subtitle: 'Personal Project',
+    link: 'https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel',
+    image: 'images/projects/LKP.jpg',
+    date: 'August 2021',
     desc:
       'Implementation of Linked List, Hash Table, Red-Black Tree, Radix Tree, and XArray in C and Linux 5.13 API. '
       + 'Tools: C, Linux API.',
