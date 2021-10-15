@@ -11,25 +11,25 @@ My life is more than just school and work, leadership and people-skill are also 
     - Events Categories:
         - Company Info Sessions, Tech Talks, Resume Review Sessions, Networking Sessions, Recruitment Sessions.
         - IEEE@VT Experience Students Tech Talks (IEEExp).
-        - IEEE@VT Online Resume Review Sessions.
+        - IEEE@VT Online Resume Review Sessions.<br><br>
 
 - **Club President** - Teaching Robotics & Engineering (TRE) @VT - *September 2018 to December 2020*.
     - Taught Arduino coding foundations and robotics projects for 15-25 club members.
-    - Supervised five club Officers in making teaching materials and mentoring club’s members.
+    - Supervised five club Officers in making teaching materials and mentoring club’s members.<br><br>
 
 - **Student Mentor** - Center for Enhancement of Engineering Diversity (CEED) @VT - *Fall 2019*.
     - Served as a sounding board for various issues that confront first-year students during the first ten weeks.
-    - Held weekly meetings to provide 10 mentees about how to smoothly transition into Virginia Tech culture.
+    - Held weekly meetings to provide 10 mentees about how to smoothly transition into Virginia Tech culture.<br><br>
 
 - **Academic & Career Advisor Assistant** - College of Engineering @VT - *Summer 2019*.
     - Greet new students, families, and guests.
     - Assist students with registration/provide guidance in course selection in keeping with the degree requirements, students' interests, values, and abilities.
-    - Provide unofficial transfer credit evaluations for student’s AP, IB, CLEP, Transfer, and Cambridge credits.
+    - Provide unofficial transfer credit evaluations for student’s AP, IB, CLEP, Transfer, and Cambridge credits.<br><br>
 
 - **Student Manager** - Deet's Place Coffee @VT - *September 2018 to September 2019*.
     - Supervised and ensured a smooth functioning workplace environment.
     - Delegated tasks, corrected and informed company standards for 9 employees.
-    - Assisted with inquiries and questions from customers and employees.
+    - Assisted with inquiries and questions from customers and employees.<br><br>
 
 - **Math Team Captain** - St.Paul Preparatory School - *Senior Year Highschool*.
     - Assisted the teacher with explaining difficult problems to members.
