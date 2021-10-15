@@ -43,6 +43,9 @@ In Summer 2021, I joined as a Machine Learning Intern at Heron Systems R&D, work
 
 
 # Software Development Experience
+- **Kaggle Competitions**
+    - Geo Fellowship's Satellite Road Image Classification Competition, 3rd Place - *Spring 2021*.
+
 - **Connected and Automated Vehical Systems Subteam Member** - [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html) - *August 2020 to May 2021*.
     - Designed test code for sensor fusion infrastructure and adaptive cruise control FSM with MatLab and C++.<br><br>
 
