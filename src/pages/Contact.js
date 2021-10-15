@@ -25,7 +25,7 @@ const Contact = () => (
         <br />
         <p>
           <i>
-            For University Recruiter(s), Team Lead(s), or Company Representatives,
+            For University Recruiter(s), Team Lead(s), or Company Representative(s),
             if you are interested in hosting info sessions or events with IEEE@VT, please
             don&apos;t hesitate to message either <a href="https://www.ieee.vt.edu/contact-us.html">IEEE@VT</a> or me via Linked In or Email.
             I&apos;m more than happy to help out :)
