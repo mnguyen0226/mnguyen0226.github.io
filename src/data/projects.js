@@ -42,7 +42,7 @@ const data = [
       + 'Tools: First & Second order optimization algorithms, Python, Pytorch, GPU/CUDA.',
   },
   {
-    title: 'Project (On-going): AI Flappy Hokie - Software Development & Machine Learning',
+    title: 'Project (On-going): AI Flappy Hokie (Software Development & Machine Learning)',
     subtitle: 'Personal Project',
     link: 'https://github.com/mnguyen0226/ai_flappy_bird',
     image: 'images/projects/ai_hokie.jpg',
