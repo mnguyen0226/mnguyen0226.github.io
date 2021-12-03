@@ -2,6 +2,16 @@
 
 const data = [
   {
+    title: 'Project (On-going): Haptic Force and Position Feedback Robotic Arm in Virtual Reality',
+    subtitle: 'Senior Design Project',
+    link: 'https://drive.google.com/drive/folders/1_4Eo6_wKtha8TBZqV3oUdaru9eJ1Sfay?usp=sharing',
+    image: 'images/projects/force_bot_project.png',
+    date: 'October 2021',
+    desc:
+      'Build Robotic Arm which is compatible with Vive VR Headset and HaptX Gloves for allowing Haptic Force and Position Feedback. '
+      + 'Tools: Unity, C#, Robotics.',
+  },
+  {
     title: 'Project (On-going): AI Flappy Hokie',
     subtitle: 'Personal Project',
     link: 'https://github.com/mnguyen0226/ai_flappy_bird',
