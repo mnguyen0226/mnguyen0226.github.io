@@ -39,7 +39,7 @@ const data = [
     date: 'October 2021',
     desc:
       'AdaHessian vs SGD, Adam, AdaGrad, AdamW, RMSprop performance benchmark with MNIST and CIFAR-10'
-      + 'Tools: First & Second order optimization algorithms, Python, Pytorch, GPU/CUDA.',
+      + 'Tools: ML Optimizer, Python, Pytorch, GPU/CUDA.',
   },
   {
     title: 'Project (On-going): AI Flappy Hokie (Software Development & Machine Learning)',
