@@ -22,23 +22,23 @@ const data = [
       + 'Tools: Graph Neural Network, Python, Pytorch, GPU/CUDA.',
   },
   {
-    title: 'Project (On-going): Performance Comparison & Analysis Between Q-Learning, A2C, and PPO in Bipedal Walker - ECE 5984 (Reinforcement Learning)',
+    title: 'Project: Performance Comparison & Analysis Between Q-Learning, A2C, and PPO in Bipedal Walker - ECE 5984 (Reinforcement Learning)',
     subtitle: 'ECE 5984 Class Project',
-    link: '',
-    image: 'images/projects/empty.png',
+    link: 'https://github.com/mnguyen0226/rl_value_based_vs_value_policy_based',
+    image: 'images/projects/bipedal_wallpaper.png',
     date: 'October 2021',
     desc:
       'Implementation from scratch of Q-Learning, A2C, and PPO on Bipedal Walker environment... '
       + 'Tools: Reinforcement Learning, Python, Pytorch, GPU/CUDA.',
   },
   {
-    title: 'Project (On-going): Effectiveness of Second-Order Optimization for Non-convex Machine Learning - ECE 5554 (Machine Learning)',
+    title: 'Project: Effectiveness of Second-Order Optimization for Non-convex Machine Learning - ECE 5554 (Machine Learning)',
     subtitle: 'ECE 5554 Class Project',
-    link: '',
-    image: 'images/projects/empty.png',
+    link: 'https://github.com/mnguyen0226/soo_non_convex_ml',
+    image: 'images/projects/first_order_vs_second_order.png',
     date: 'October 2021',
     desc:
-      '...'
+      'AdaHessian vs SGD, Adam, AdaGrad, AdamW, RMSprop performance benchmark with MNIST and CIFAR-10'
       + 'Tools: First & Second order optimization algorithms, Python, Pytorch, GPU/CUDA.',
   },
   {
