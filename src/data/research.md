@@ -6,9 +6,9 @@ In Summer 2021, I joined as a Machine Learning Intern at Heron Systems R&D, work
 # Publication
 - Poster: **"Technology Policy Recommendations Using Artificial Intelligence" - Anuga, A., Nguyen, M., Perini, D., Svetovidov, A., Tolman, A., Wani. Q., and Batarseh, F.** - [FLAIRS](https://journals.flvc.org/FLAIRS/article/view/128499)<br><br>
 
-<!-- - Book Chapter [in progress]: **"Bringing Dark Data to Light with AI for Evidence-Based Policymaking" - Dominick J. Perini, Feras A. Batarseh, Amanda Tolman, Ashita Anuga, Minh Nguyen**<br><br> -->
-
 - Paper: Acknowledged in **"Predicting road quality using high-resolution satellite imagery: A transfer learning approach" - Ethan Brewer, Jason Lin, Peter Kemper, John Hennin, Dan Runfola** - [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253370)
+
+<!-- - Book Chapter [in progress]: **"Bringing Dark Data to Light with AI for Evidence-Based Policymaking" - Dominick J. Perini, Feras A. Batarseh, Amanda Tolman, Ashita Anuga, Minh Nguyen**<br><br> -->
 
 # Undergraduate Research
 - **Member** - [TREC Lab@VT](https://www.trecvt.org/projects-v1/forcebot-haptic-force-and-position-feedback-in-virtual-reality) - *August 2021 to Present*.
