@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 import React, { useState, useEffect, useRef } from 'react';
 
 // Validates the first half of an email address.

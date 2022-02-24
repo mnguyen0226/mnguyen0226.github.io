@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 // TODO: Add Athletic Skills, Office Skills,
 // Data Engineering, Data Science, ML Engineering, ... ?
 

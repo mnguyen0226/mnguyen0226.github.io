@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
@@ -13,7 +13,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/minh-t-nguyen-1a7690178/',
+    link: 'https://www.linkedin.com/in/minhbtnguyen/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

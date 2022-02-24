@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 import React, { Suspense, lazy, useState } from 'react';
 
 import { Link } from 'react-router-dom';

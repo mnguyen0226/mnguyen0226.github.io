@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages

@@ -1,4 +1,4 @@
-/* eslint linebreak-style: ["error", "windows"] */
+// /* eslint linebreak-style: ["error", "windows"] */
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
