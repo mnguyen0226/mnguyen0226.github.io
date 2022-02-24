@@ -81,12 +81,7 @@ const courses = [
     link: 'https://ece.vt.edu/undergrad/courses/2714',
     university: 'Viginia Tech',
   },
-  {
-    title: 'Physical Electronics',
-    number: 'ECE 2214',
-    link: 'https://ece.vt.edu/undergrad/courses/2214',
-    university: 'Virginia Tech',
-  },
+
   {
     title: 'Intro to Problem Solving in CS',
     number: 'CS 2104',
@@ -100,7 +95,7 @@ const courses = [
     university: 'Virginia Tech',
   },
   {
-    title: 'Probability & Statistic for ECE',
+    title: 'Probability & Statistic',
     number: 'STAT 4714',
     link: '',
     university: 'Virginia Tech',
@@ -112,21 +107,9 @@ const courses = [
     university: 'Virginia Tech',
   },
   {
-    title: 'Circuits and Devices',
-    number: 'ECE 2024',
-    link: 'https://ece.vt.edu/undergrad/courses/2024',
-    university: 'Virginia Tech',
-  },
-  {
     title: 'Continuous & Discrete System Theory',
     number: 'ECE 3704',
     link: 'https://ece.vt.edu/undergrad/courses/3704',
-    university: 'Virginia Tech',
-  },
-  {
-    title: 'Linux Kernal Programming',
-    number: 'ECE 4414',
-    link: 'https://ece.vt.edu/undergrad/courses/4414',
     university: 'Virginia Tech',
   },
   {
@@ -139,6 +122,24 @@ const courses = [
     title: 'Reinforcement Learning Algorithms',
     number: 'ECE 5984',
     link: 'https://sites.google.com/site/thinhdoan210/',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Deep Learning',
+    number: 'STAT 4984',
+    link: 'https://xin-xing.github.io/courses/stat4984-spring-2022.html',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Trustworthy ML',
+    number: 'ECE 5984',
+    link: '',
+    university: 'Virginia Tech',
+  },
+  {
+    title: 'Data Analytics',
+    number: 'CS 5525',
+    link: 'https://people.cs.vt.edu/karpatne/teaching/5525-s21/index.html',
     university: 'Virginia Tech',
   },
 ];

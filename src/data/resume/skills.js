@@ -20,7 +20,7 @@ const skills = [
   },
   {
     title: 'Linux',
-    competency: 3,
+    competency: 2,
     category: ['Languages'],
   },
   {
@@ -75,7 +75,7 @@ const skills = [
   },
   {
     title: 'C/C++',
-    competency: 3.5,
+    competency: 3,
     category: ['Languages', 'EE Tools'],
   },
   {

@@ -21,12 +21,13 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Minh Nguyen. I like learning and building things.
-        I&apos;m a Senior at <a href="https://vt.edu/">Virginia Tech</a> majoring in Computer Engineer with a focus in <a href="https://ece.vt.edu/">Machine Learning</a> and minoring in <a href="https://cs.vt.edu/">Computer Science</a>. I&apos;m an Industry Relations Chair at <a href="https://www.ieee.vt.edu/">IEEE@VT</a>, Undergraduate Researcher at <a href="https://ai.ece.vt.edu/">A3 Lab</a> and <a href="https://www.trecvt.org/">TREC Lab</a> at Virginia Tech. In Summer 2021, I joined as Machine Learning Intern at <a href="https://heronsystems.com/">Heron Systems R&D</a>. Before Heron Systems R&D I was
-        at <a href="https://eng.vt.edu/student-teams/hevt.html">HEVT@VT</a>
+        I&apos;m a Senior at <a href="https://vt.edu/">Virginia Tech</a> majoring in Computer Engineer with a focus in Machine Learning and minoring in Computer Science. I&apos;m an Industry Relations Chair at <a href="https://www.ieee.vt.edu/">IEEE@VT</a>, and a researcher at both <a href="https://ai.ece.vt.edu/">A3 Lab</a> and <a href="https://www.trecvt.org/">TREC Lab</a> at Virginia Tech. Before A3 Lab and TREC Lab, I was
+        at <a href="https://shield.ai/">Shield AI (Heron Systems)</a>
+        , <a href="https://eng.vt.edu/student-teams/hevt.html">HEVT@VT</a>
         , <a href="https://www.wm.edu/as/data-science/researchlabs/geolab/what_we_do/index.php">GeoLab@WM</a>
         , <a href="https://wireless.vt.edu/">Wireless@VT</a>
-        , <a href="https://www.linkedin.com/company/teaching-robotics-and-engineering/about/">TRE@VT</a>
-        , and <a href="https://www.linkedin.com/in/minh-t-nguyen-1a7690178/">UTA-ECE@VT</a>.
+        , <a href="https://gobblerconnect.vt.edu/organization/TRE">TRE@VT</a>
+        , and <a href="https://ece.vt.edu/undergrad/courses/2804.html">TA-ECE@VT</a>.
       </p>
       <ul className="actions">
         <li>

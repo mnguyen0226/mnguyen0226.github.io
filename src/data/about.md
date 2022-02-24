@@ -26,7 +26,7 @@ I am currently work on "Robust Attacks Detection on Cyber-Physical Systems" at V
 - Sports: running, soccer, hiking, competitive frisbee, wally/volley-ball.
 - Long-boarding.
 - Skiing.
-- Classical Piano, American Pop, UK Rap.
+- Classical Piano.
 - Current top-3 cooking dishes I can make: Thai Curry, KFC Fried Chicken, Vietnamese Beef Rattles.
 - Current top-3 audio books: Art of Wars, The Killing Chain, 48 Laws of Power.
 - Current top-3 Spotify podcasts: [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [The Economist](https://www.economist.com/podcasts), [The Minimalist](https://open.spotify.com/show/5ECF0soZ1H5NxZHanAzUYd).
