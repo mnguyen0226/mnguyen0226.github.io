@@ -14,12 +14,12 @@
 <!-- - Book Chapter [in progress]: **"Bringing Dark Data to Light with AI for Evidence-Based Policymaking" - Dominick J. Perini, Feras A. Batarseh, Amanda Tolman, Ashita Anuga, Minh Nguyen**<br><br> -->
 
 # Awards
-- **Deloitte Graduate Fellow** | Commonwealth Cyber Initiative (CCI) at Arlington | November 2021<br><br>
+- **Deloitte Graduate Fellow** | [CCI](https://cyberinitiative.org/) | November 2021<br><br>
 
-- **Turing Undergraduate Fellow** | Virginia Tech Research Center at Arlington | May 2020
+- **Turing Undergraduate Fellow** | [VTRC](https://www.vtf.org/virginia-tech-research-center-arlington) | May 2020
     - Awarded AI fellowship out of 21 different universities in the commonwealth of Virginia.<br><br>
 
-- **Geo Undergraduate Fellow** | Geo Lab at William & Mary College | June 2020
+- **Geo Undergraduate Fellow** | [Geo Lab@WM](https://www.wm.edu/as/data-science/researchlabs/geolab/cci/index.php) | June 2020
     - One of 30 fellows chosen out of 150 applicants for the world’s largest lab in applying ML in geospatial data security.
 
 
