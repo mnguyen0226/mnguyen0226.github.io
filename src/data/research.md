@@ -13,6 +13,16 @@
 
 <!-- - Book Chapter [in progress]: **"Bringing Dark Data to Light with AI for Evidence-Based Policymaking" - Dominick J. Perini, Feras A. Batarseh, Amanda Tolman, Ashita Anuga, Minh Nguyen**<br><br> -->
 
+# Awards
+- **Deloitte Graduate Fellow** | Commonwealth Cyber Initiative (CCI) at Arlington | November 2021<br><br>
+
+- **Turing Undergraduate Fellow** | Virginia Tech Research Center at Arlington | May 2020
+    - Awarded AI fellowship out of 21 different universities in the commonwealth of Virginia.<br><br>
+
+- **Geo Undergraduate Fellow** | Geo Lab at William & Mary College | June 2020
+    - One of 30 fellows chosen out of 150 applicants for the world’s largest lab in applying ML in geospatial data security.
+
+
 # Undergraduate Research
 - **Researcher** | [TREC Lab@VT](https://www.trecvt.org/projects-v1/forcebot-haptic-force-and-position-feedback-in-virtual-reality) | *August 2021 to Present*.
     - Haptic Force and Position Feedback in Virtual Reality project.
@@ -24,17 +34,17 @@
     - To be updated...<br><br>
 
 
-- **Researcher** | [Geo Fellowship at William & Mary College](https://www.wm.edu/as/data-science/researchlabs/geolab/cci/index.php) | *May 2020 to May 2021*.
+- **Researcher** | [Geo Lab@WM](https://www.wm.edu/as/data-science/researchlabs/geolab/cci/index.php) | *May 2020 to May 2021*.
     - Implemented ensemble CNN model by stacking VGG16, InceptionV3, ResNet50 for classifying road roughness.
     - Defended ensemble model against poisoned road satellite images via Auto-Encoder - an outlier detection neural network.
     - Improved accuracy by 4% compared to traditional networks, gained 3rd place (out of 8) in data poisoning competition.<br><br>
 
-- **Researcher** | [Antenna Range Project at Wireless@VT](https://wireless.vt.edu/) | *Summer 2020*.
+- **Researcher** | Antenna Range Project | [Wireless@VT](https://wireless.vt.edu/) | *Summer 2020*.
     - Applied my knowledge in Python, Arduino, and GRBL library to control the two stepper motors for signal receiving task or signal sweeping application.
     - User will be able to control the Antenna's movements through their preferred angles by entering the angles in Python script.
 
 # Internship
-- **Machine Learning Intern** | [Heron Systems R&D](https://heronsystems.com/work/gamebreaker/) | *Winter 2020 to August 2021*.
+- **Machine Learning Intern** | [Shield AI (Heron Systems R&D)](https://shield.ai/) | *Winter 2020 to August 2021*.
     <!-- - Built ResNet and Reinforcement Learning agents with Pytorch in PySC2 for game-winning classification application.
     - Create NLP performance test bench for any Transformers/RNN/GRU architectures (including the Gated Transformers for RL application stabilization) allowing ML engineers to validate their Transformers/RNN/GRU performance.
     - Implemented and tested [random search](https://github.com/mnguyen0226/mnguyen0226.github.io/blob/main/docs/searches/random-search.pdf), [greedy search](https://github.com/mnguyen0226/mnguyen0226.github.io/blob/main/docs/searches/greedy-search.pdf), and [random-greedy hybrid search](https://github.com/mnguyen0226/mnguyen0226.github.io/blob/main/docs/searches/hybrid-search.pdf) to optimize army searching time.
@@ -47,7 +57,7 @@
 
 
 # Software Development Experience
-- **Testing Engineer | Connected and Automated Vehical Systems Subteam** | [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html) | *August 2020 to May 2021*.
+- **Testing Engineer** | Connected and Automated Vehical Systems Subteam | [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html) | *August 2020 to May 2021*.
     - Simulated driving scenario and processed collected data for damage analysis via Matlab.
     - Designed test code for sensor fusion infrastructure and adaptive cruise control FSM with C++.<br><br>
 
