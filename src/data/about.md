@@ -7,9 +7,6 @@ After completing my B.S. in Computer Engineering at Virginia Tech in Spring 2022
 
 If you think I can be helpful to you/your team/your company or would like to meet me (both in person or virtually), feel free to [get in touch](https://mnguyen0226.github.io/contact).<br><br>
 
-# Background
-I was born in the beautiful [Ho Chi Minh City](https://www.youtube.com/watch?v=Ilui-mb3sT0&ab_channel=BeautifulDestinations), Viet Nam. I moved to the United State when I was 18 years old and have been living in the State ever since.
-
 # Research Interests
 Can be found in [here](https://mnguyen0226.github.io/research).
 
@@ -32,7 +29,6 @@ I am currently work on "Robust Attacks Detection on Cyber-Physical Systems" at V
 - Current top-3 Spotify podcasts: [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [The Economist](https://www.economist.com/podcasts), [The Minimalist](https://open.spotify.com/show/5ECF0soZ1H5NxZHanAzUYd).
 
 # Travel Journey
-- I have spent ~4/5 of my life so far living in the the beautiful Ho Chi Minh City, Viet Nam. I have traveled through ~30/63 provinces of Viet Nam, some of which I have forgotten, and many of which I would like to revisit due to the weather, people, good foods, and diverst cultures. I planned to travel Europe in my late 20s. One of my long-term goals is to travel through all 50 states in the US.
 - In 2014, I visited Seoul (South Korea).
 - In 2015, I moved to St.Paul-Minneapolis Twin City (Minnesota, USA). Besides, I visited Wisconsin (USA) and Virginia (USA).
 - In 2017, I visited Singapore and Washington DC (USA).
