@@ -1,1 +1,1 @@
-# site
+This is the source code to Minh Nguyen's public website: mnguyen0226.github.io.
