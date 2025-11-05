@@ -44,6 +44,12 @@ name {
   font-size: 32px;
 }
 
+/* Profile image - circular crop */
+.profile-img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .one {
   width: 160px;
   height: 160px;
