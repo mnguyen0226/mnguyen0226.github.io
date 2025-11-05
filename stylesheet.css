@@ -1,6 +1,12 @@
 /* Import fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic");
 
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px; /* Adjust based on your header height */
+}
+
 /* Basic styling */
 a {
   color: #1772d0;
@@ -73,4 +79,33 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+/* Sticky navigation */
+.nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 1000;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 15px 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.nav-bar a {
+  color: #1772d0;
+  text-decoration: none;
+  padding: 0 15px;
+  font-size: 14px;
+}
+
+.nav-bar a:hover {
+  color: #f09228;
+}
+
+/* Add padding to body to account for fixed header */
+body {
+  padding-top: 60px;
 }
